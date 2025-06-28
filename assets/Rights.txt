@@ -1,0 +1,28 @@
+# Emergency Radio UI System
+
+A fully interactive emergency radio UI built in Python using CustomTkinter. Supports real-time OCR + speech recognition, dispatch 
+logs, 10-code detection, and animated splash screen with GitHub asset syncing.
+
+---
+
+## Author
+
+**Rhys Muhona**  
+[Your GitHub or Website (if any)]
+
+---
+
+## ⚠Disclaimer & Usage
+
+This project was created by Anthony Matrix and is licensed under the **MIT License**.
+
+All UI assets, logos, branding, and names are © 2025 Rhys Muhona.  
+Do **not** resell, reupload, or claim this project as your own.
+
+If you fork or use this code, **credit must be given** clearly in your README or application.
+
+---
+
+## License
+
+Licensed under the [MIT License](./LICENSE).
